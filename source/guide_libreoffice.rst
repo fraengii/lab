@@ -77,7 +77,7 @@ Then, install the latest stable version of `udocker`_:
 
 ::
 
-  [isabell@stardust ~]$ curl https://raw.githubusercontent.com/indigo-dc/udocker/master/udocker.py > $HOME/bin/udocker
+  [isabell@stardust ~]$ curl -L https://github.com/indigo-dc/udocker/releases/download/v1.3.1/udocker-1.3.1.tar.gz > $HOME/bin/udocker-1.3.1.tar.gz
     % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                    Dload  Upload   Total   Spent    Left  Speed
   100  338k  100  338k    0     0   522k      0 --:--:-- --:--:-- --:--:--  521k
