@@ -157,7 +157,7 @@ First, configure `udocker`_ to use `fakechroot`_ instead of `proot`_:
   By default, `udocker`_ uses `proot`_ to fake `chroot`_. However, `proot`_ does
   not support real multi-threading and leads to a noticeable lag when editing
   documents. An overview of the execution modes of udocker can be found in the
-  `udocker manual <https://github.com/indigo-dc/udocker/blob/master/doc/user_manual.md#327-setup>`_.
+  `udocker manual <https://github.com/indigo-dc/udocker/blob/master/docs/user_manual.md#327-setup>`_.
 
 Configure webserver
 -------------------
